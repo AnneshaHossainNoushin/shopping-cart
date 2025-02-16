@@ -11,7 +11,10 @@ document.addEventListener("DOMContentLoaded", function() {
                   <img src="${product.image}" alt="${product.name}" width="100">
                   <h3>${product.name}</h3>
                   <p>Price: Tk ${product.price}</p>
-                  <button onclick="addToCart('${product.name}', ${product.price}, '${product.image}')">Add to Cart</button>
+                  <button onclick="addToCart('${product.name.replace(/'/g, "\\'")}', ${product.price}, '${product.image}')">
+    Add to Cart
+</button>
+
               `;
 
               productList.appendChild(productDiv);
