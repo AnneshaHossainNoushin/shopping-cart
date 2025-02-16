@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Pran ChiniGura Chal",
+    "description": "Pranchini Gura Chal is a premium quality rice, known for its fine texture and rich aroma, making every meal special",
+    "price": 100,
+    "image": "images/product 1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Alooz Waves",
+    "description": "Alooz Waves are crispy, delicious chips with a perfect wave shape, offering a satisfying crunch in every bite",
+    "price": 120,
+    "image": "images/product 2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bakeman's Saltice Cookies",
+    "description": "Bakeman's Saltice Cookies are tasty biscuits with a perfect balance of sweet and salty, offering a delightful crunch in every bite",
+    "price": 80,
+    "image": "images/product 3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Romania Butter Cookies",
+    "description": "Romania Butter Cookies are rich, buttery biscuits with a smooth texture, offering a delightful melt-in-your-mouth experience",
+    "price": 90,
+    "image": "images/product 4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wellbite Butter Mix Biscuits",
+    "description": "Wellbite Butter Mix Biscuits are deliciously buttery with a perfect blend of flavors, giving you a crisp and satisfying treat in every bite",
+    "price": 110,
+    "image": "images/product 5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Potato Crackers",
+    "description": "Potato Crackers Chips are crispy and flavorful, made with thinly sliced potatoes for a crunchy, savory snack.",
+    "price": 130,
+    "image": "images/product 6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pushti Atta",
+    "description": "Pushti Atta is a high-quality flour, perfect for making soft, delicious roti and other traditional dishes",
+    "price": 150,
+    "image": "images/product 7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sun Chips",
+    "description": "Sun Chips are crispy, all-natural chips made from wholesome ingredients, offering a delicious, crunchy snack with a burst of flavor",
+    "price": 140,
+    "image": "images/product 8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Teer Soybean Oil",
+    "description": "Teer Soybean Oil is a premium cooking oil, known for its light texture and neutral flavor, perfect for all your cooking needs",
+    "price": 95,
+    "image": "images/product 9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Coca-Cola",
+    "description": "Coca-Cola is a refreshing, fizzy soft drink with a classic, sweet taste that has been loved worldwide for generations",
+    "price": 85,
+    "image": "images/product 10.png"
+  },
+  {
+    "id": 11,
+    "name": "Fanta",
+    "description": "Fanta is a fruity, refreshing soft drink with a vibrant, tangy flavor, offering a burst of fun in every sip",
+    "price": 125,
+    "image": "images/product 11.png"
+  },
+  {
+    "id": 12,
+    "name": "Maggi Noodles",
+    "description": "Maggi Noodles are quick and delicious, offering a tasty, savory snack or meal with a perfect blend of spices in every bit",
+    "price": 135,
+    "image": "images/product 12.png"
+  },
+  {
+    "id": 13,
+    "name": "Mountain Dew",
+    "description": "Mountain Dew is a bold, citrus-flavored soda that’s crisp, refreshing, and packed with a zesty kick",
+    "price": 145,
+    "image": "images/product 13.png"
+  },
+  {
+    "id": 14,
+    "name": "Pasta Prima Spaghetti ",
+    "description": "Pasta Prima Spaghetti is a premium quality pasta, known for its perfect texture and ability to pair with any sauce for a delicious meal",
+    "price": 155,
+    "image": "images/product 14.png"
+  },
+  {
+    "id": 15,
+    "name": "Golda Pasta",
+    "description": "Golda Pasta is a high-quality pasta with a rich texture, perfect for creating a variety of delicious dishes, from classic to creative.",
+    "price": 165,
+    "image": "images/product 15.png"
+  }
+]
